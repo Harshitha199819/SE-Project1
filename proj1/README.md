@@ -13,7 +13,7 @@ Some of the required packages were outdated, and the requirements file had to be
 The requirements looked specifically for certain values which were either outdated or not compatible, for instance, “lxml==4.5.2”, was not compatible with the newer versions of some of the other packages. 
 How this could have been avoided:
 This could have been avoided by using the below practices:
-A. Using >= or ~= instead of == . By using >=, the Python library will install a version that is either greater than or equal to the mentioned version. This way, it would pick a higher version if a higher version is available. By using ~=, the library will install a version that is not lesser than the mentioned version, but a compatible version of the same release cycle. For instance, if it said “lxml~=4.5.2”, it could install any compatible version that matches the pattern 4.5.*, but is not less than 4.5.2.
+A. Using '>=' or '\~=' instead of == . By using '>=', the Python library will install a version that is either greater than or equal to the mentioned version. This way, it would pick a higher version if a higher version is available. By using '\~=', the library will install a version that is not lesser than the mentioned version, but a compatible version of the same release cycle. For instance, if it said “lxml~=4.5.2”, it could install any compatible version that matches the pattern 4.5.*, but is not less than 4.5.2.
 B. The documentation could have mentioned the versions of packages being used. This would have helped the user debug the errors easily without having to look into the codebase. Information on how to fix package incompatibility or package unavailability errors could have also been useful.
 
 
