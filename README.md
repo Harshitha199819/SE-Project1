@@ -1,6 +1,7 @@
 # SE-Project1
 Software Engineering Project 1
-![proj1](https://github.com/Harshitha199819/SE-Project1/assets/47849112/5d3764ba-34ee-4f0e-9e28-2b12dd71f611)
+![proj-se](https://github.com/Harshitha199819/SE-Project1/assets/47849112/cfdc1d7d-60ee-4838-8fc8-4ebeafb58199)
+
 <br>
 
 proj1 - Our project folder. [Go to project submission](https://github.com/Harshitha199819/SE-Project1/tree/main/proj1) <br>
