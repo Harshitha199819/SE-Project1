@@ -9,7 +9,7 @@ Niranjana,Prathima Putreddy <br>
 ### ESSAY 
 Present in the README file under navigation links. [Read essay](https://github.com/Harshitha199819/SE-Project1/blob/main/proj1/README.md#essay-1)
 
-### YOUTUBE VIDEO OF WORKING VIDEO 
+### YOUTUBE VIDEO OF WORKING PROJECT 
 [Watch YouTube video](https://www.youtube.com/watch?v=V5RYZG6PYrQ)
 
 ### PROJECT GRADING 
