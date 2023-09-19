@@ -1,11 +1,29 @@
-Team 7
+## Team 7
+Team members:
 Annadurai,Harshitha
 Bhoja Ramamanohara,Pannaga Rao
 Masineni Prasanna Kumar,Karthik
 Niranjana,Prathima Putreddy
 
-C.E.L.T -The Sentiment Analyser
-From the get-go, this particular project had us fascinated. Sentiment analysis happens to be a prominent area of research considering its wide range of applications in areas such as social media monitoring, brand reputation research, political analysis and content recommendation among others. Therefore, sentiment analysis , or opinion analysis, is a valuable tool to extract valuable information from data and make crucial data-driven decisions. C.E.L.T, The Sentiment Analyser is a well-designed application with great features that helps users to analyze sentiments not just through text, but also by providing audio, document or a product review link as inputs. All of these caught our attention.
+## NAVIGATION LINKS:
+### ESSAY 
+Present in the [README file](https://github.com/Harshitha199819/SE-Project1/blob/main/proj1/README.md) under navigation links
+
+### YOUTUBE VIDEO OF WORKING VIDEO 
+[video link](https://www.youtube.com/watch?v=V5RYZG6PYrQ)
+
+### PROJECT GRADING 
+[Folder link](https://github.com/Harshitha199819/SE-Project1/tree/main/proj1/project%20gradings)
+
+### NOTE 
+project grading folders has 6 files
+The <project_name>.csv files are files containing the grades for each project assigned to us. 
+project 1.xlsx is a combined file containing grades of all files in different sheets. (This file has the same content as the individual files)
+
+
+## ESSAY:
+
+From the get-go, C.E.L.T -The Sentiment Analyser, had us fascinated. Sentiment analysis happens to be a prominent area of research considering its wide range of applications in areas such as social media monitoring, brand reputation research, political analysis and content recommendation among others. Therefore, sentiment analysis , or opinion analysis, is a valuable tool to extract information from data and make crucial data-driven decisions. C.E.L.T, The Sentiment Analyser is a well-designed application with great features that helps users to analyze sentiments not just through text, but also by providing audio, document or a product review link as inputs. All of these caught our attention.
 
 We had a good time setting up and working on this project. However, there were a few obstructions we faced while trying to set up the application on our systems. Below, we have listed a few improvements that could potentially make it easier for others to set up and use the application on their systems.
 
@@ -36,14 +54,14 @@ B. Using client-side form field validations. By using client-side validations, w
 
 
 Issues we observed in the other projects:
-Requirement files in all other projects had == in place of >= or ~= , which led to a lot of version consistency issues.
+Requirement files in all other projects had == in place of >= or \~= , which led to a lot of version consistency issues.
 In the stock prediction project, the modules were not explained clearly which led to the difficulty in understanding its usability.
 Most of the projects did not have details about the fixes being made for the reported bugs.
 
 
 Here are some practises that we are committing to perform in order to avoid such issues in our Project 2:
 Proving clear information about the different packages being used along with their version numbers in the documentation.
-Using “>=” or “~=” in the requirements file in order to avoid package incompatibility or unavailability errors at the time of installation.
+Using “>=” or “\~=” in the requirements file in order to avoid package incompatibility or unavailability errors at the time of installation.
 Using relative paths to reference files in the codebase instead of absolute paths. 
 Catching foreseeable errors and providing clear messages for them.
 Providing clear instructions on the accepted input types.
